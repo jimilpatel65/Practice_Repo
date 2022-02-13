@@ -8,7 +8,7 @@ public class App
         test1();
     }
     
-    public static void test1()
+    private static void test1()
     {
     	System.out.println("New Update");
     }
